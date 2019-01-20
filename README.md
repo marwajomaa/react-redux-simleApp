@@ -1,2 +1,2 @@
 # react-redux-simleApp
-get started with redux  :glowigstar: :sparkles: :sparkling heart: :womendancing:
+get started with redux  :sparkles: :red-heart:
